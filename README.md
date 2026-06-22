@@ -1,4 +1,3 @@
-# DarkBearCode
 # Hi there, I'm DarkBearCode 👋
 
 Information Security Student & Python Developer passionate about building functional security tooling, offensive automation, and defensive scripting.
