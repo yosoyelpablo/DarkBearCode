@@ -19,14 +19,14 @@ Information Security Student & Python Developer passionate about building functi
       <h4>💻 Languages & Core</h4>
       <ul>
         <li><b>Languages:</b> Python (Advanced Scripting, Regular Expressions, <code>argparse</code>), Bash.</li>
-        <li><b>Systems:</b> Linux (Debian/Ubuntu/Arch), Git/GitHub Version Control.</li>
+        <li><b>Systems:</b> Linux (Debian/Ubuntu), Git/GitHub Version Control.</li>
         <li><b>Integrations:</b> REST APIs & Large Language Models (Gemini API for security analytics).</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🔒 Security Ecosystem</h4>
       <ul>
-        <li><b>Defensive (Blue Team):</b> Telemetry Monitoring, Audit Log Analysis (Keycloak events), DoS & Brute-Force pattern detection.</li>
+        <li><b>Defensive (Blue Team):</b> Telemetry Monitoring, Audit Log Analysis, DoS & Brute-Force pattern detection.</li>
         <li><b>Offensive (Red Team):</b> Custom Recon Automation, Conditional Scanning, Directory Fuzzing, Vulnerability Auditing (SQLi, JWT, SSRF).</li>
       </ul>
     </td>
